@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aftab-portifolio/static/css/main.a31d9310.chunk.css",
+    "main.js": "/aftab-portifolio/static/js/main.1172eecb.chunk.js",
+    "main.js.map": "/aftab-portifolio/static/js/main.1172eecb.chunk.js.map",
+    "runtime-main.js": "/aftab-portifolio/static/js/runtime-main.31957b2a.js",
+    "runtime-main.js.map": "/aftab-portifolio/static/js/runtime-main.31957b2a.js.map",
+    "static/js/2.e896946f.chunk.js": "/aftab-portifolio/static/js/2.e896946f.chunk.js",
+    "static/js/2.e896946f.chunk.js.map": "/aftab-portifolio/static/js/2.e896946f.chunk.js.map",
+    "index.html": "/aftab-portifolio/index.html",
+    "precache-manifest.6101b79db0b943e3852bf8947bed8be7.js": "/aftab-portifolio/precache-manifest.6101b79db0b943e3852bf8947bed8be7.js",
+    "service-worker.js": "/aftab-portifolio/service-worker.js",
+    "static/css/main.a31d9310.chunk.css.map": "/aftab-portifolio/static/css/main.a31d9310.chunk.css.map",
+    "static/js/2.e896946f.chunk.js.LICENSE.txt": "/aftab-portifolio/static/js/2.e896946f.chunk.js.LICENSE.txt",
+    "static/media/pp.jpg": "/aftab-portifolio/static/media/pp.f41fcbdc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31957b2a.js",
+    "static/js/2.e896946f.chunk.js",
+    "static/css/main.a31d9310.chunk.css",
+    "static/js/main.1172eecb.chunk.js"
+  ]
+}
